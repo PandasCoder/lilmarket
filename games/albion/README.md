@@ -1,4 +1,4 @@
-# MarketScout — Albion Online
+# lilmarket — Albion Online
 
 Real-time market scanner for Albion Online. Shows the best transport routes between cities and the most profitable items to craft, based on actual trade history — not just posted listings.
 
@@ -45,4 +45,4 @@ All data comes from the [Albion Online Data Project (AODP)](https://www.albion-o
 
 The scanner is running live at **https://albion.codea.plus** — no login required, just open and use.
 
-This is a proof of concept. If you find a bug or have a suggestion, open an [issue](https://github.com/PandasCoder/market-scanner/issues) or leave a comment.
+This is a proof of concept. If you find a bug or have a suggestion, open an [issue](https://github.com/PandasCoder/LilMarket/issues) or leave a comment.
