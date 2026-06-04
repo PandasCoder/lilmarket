@@ -12,7 +12,7 @@ No spreadsheets. No manual price checking. Just open the dashboard and see what'
 
 | Game | Status | Demo |
 |---|---|---|
-| [Albion Online](games/albion/README.md) | ✅ Live | [albion.codea.plus](https://albion.codea.plus) |
+| [Albion Online](games/albion/README.md) | ✅ Live | [albion.lilmarket.io](https://albion.lilmarket.io) |
 
 More games coming. If you want to see your game here, open an issue.
 

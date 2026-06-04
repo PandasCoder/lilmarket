@@ -2,7 +2,7 @@
 
 Real-time market scanner for Albion Online. Shows the best transport routes between cities and the most profitable items to craft, based on actual trade history — not just posted listings.
 
-**Live demo:** https://albion.codea.plus
+**Live demo:** https://albion.lilmarket.io
 
 ---
 
@@ -43,6 +43,6 @@ All data comes from the [Albion Online Data Project (AODP)](https://www.albion-o
 
 ## Try it
 
-The scanner is running live at **https://albion.codea.plus** — no login required, just open and use.
+The scanner is running live at **https://albion.lilmarket.io** — no login required, just open and use.
 
 This is a proof of concept. If you find a bug or have a suggestion, open an [issue](https://github.com/PandasCoder/LilMarket/issues) or leave a comment.
